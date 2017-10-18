@@ -1,0 +1,11 @@
+* {
+  background-color: pink;
+  text-align: center;
+  font-stretch: expanded;
+  font-style: italic;
+  }
+  h1 {
+    font-size: 40px;
+    color: grey;
+    font-family: sans-serif;
+  }
