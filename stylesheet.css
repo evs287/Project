@@ -92,3 +92,10 @@ nav ul {
         font-size: 1.2em;
     /*}*/
 }
+
+p {
+  text-align: center;
+  color: #ffffff;
+  font-size: 2.2em;
+  font-family: fantasy;
+}
